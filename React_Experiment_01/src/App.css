@@ -1,0 +1,6 @@
+body { margin: 0; font-family: Arial, Helvetica, sans-serif; background: #f4f7fb; color: #222; }
+.container { min-height: 100vh; text-align: center; padding: 40px 20px; }
+.container h1 { margin-bottom: 30px; font-size: 32px; color: #1e3a5f; }
+.student, .course, .faculty { width: 340px; margin: 20px auto; padding: 24px; background: white; border: 1px solid #dfe5ec; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.08); text-align: left; }
+.student h2, .course h2, .faculty h2 { margin-top: 0; margin-bottom: 16px; padding-bottom: 10px; color: #2563eb; border-bottom: 2px solid #e5e7eb; }
+.student p, .course p, .faculty p { margin: 10px 0; font-size: 16px; line-height: 1.6; color: #374151; }
